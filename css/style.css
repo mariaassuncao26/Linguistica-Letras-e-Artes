@@ -105,7 +105,7 @@ nav{
     margin-right: 5px;
 }
 
-.footer1{
+.footer{
     padding-top: 10vh;
     border-bottom: var(--cor2) solid 1px;
 }
@@ -126,7 +126,7 @@ nav{
     background-color: var(--cor5);
     padding: 8px;
     border-radius: 50px;
-    margin-right: 5px;
+    margin-right: 10px;
     width: 40px;
     height: 40px;
     margin-bottom: 5vh;
